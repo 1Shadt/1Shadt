@@ -6,7 +6,6 @@ Currently learning Unity while making small projects *(such as minecraft maps)* 
 
 
 ### Coding Experience
----
 **LANGUAGES**
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/04dddb03-eb0b-486e-9737-64a7cada138e" />Python: Got some experience, can write complex scripts
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1c444c67-c8c5-4ab2-bfc7-d06a227d215b" />C++: Learning, simple scripts only
@@ -14,12 +13,13 @@ Currently learning Unity while making small projects *(such as minecraft maps)* 
 
 
 ### If you're interested in me
----
 You can message me in discord - my username is **ishady_uwu**
 
 I'm online almost every day, will respond as quickly as possible.
 
 I speak English and Russian, so feel free to use any of these with me.
+
+You can message me even if you just wanna talk, by the way.
 
 ### Fun Fact
 🍊I love ORANGES!🍊
